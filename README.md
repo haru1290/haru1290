@@ -20,8 +20,8 @@
 
 ## 受賞や資格
 
-- ITパスポート, 2015
-- 基本情報技術者試験, 2022
+- ITパスポート
+- 基本情報技術者試験
 
 <!--
 **haru1290/haru1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
