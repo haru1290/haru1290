@@ -12,7 +12,6 @@
 - Haruya Suzuki, Yuto Miyauchi, Kazuki Akiyama, Tomoyuki Kajiwara, Takashi Ninomiya, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. A Japanese Dataset for Subjective and Objective Sentiment Polarity Classification in Micro Blog Domain. In Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), Marseille, France, June 2022. [[Paper](https://aclanthology.org/2022.lrec-1.759/)] [[Slides](https://github.com/haru1290/haru1290/blob/main/lrec2022-slides.pdf)]
 
 ## 国内会議
----
 
 - 鈴木陽也, 梶原智之, 二宮崇, 中島悠太, 長原一. ユーザの性格情報を用いた感情分析. NLP若手の会第17回シンポジウム, P2-11, August 2022. [[Poster](https://github.com/haru1290/haru1290/blob/main/yans2022-poster.pdf)]
 - 鈴木陽也, 秋山和輝, 梶原智之, 二宮崇, 武村紀子, 中島悠太, 長原一. 書き手の性格情報を用いた感情強度推定. 人工知能学会第36回全国大会, 4D3-GS-6-04, June 2022. [[Paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4D3GS604/_article/-char/ja)] [[Slides](https://github.com/haru1290/haru1290/blob/main/jsai2022-slides.pdf)]
