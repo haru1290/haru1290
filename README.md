@@ -9,7 +9,7 @@
 ## 国際会議
 
 - Haruya Suzuki, Sora Tarumoto, Tomoyuki Kajiwara, Takashi Ninomiya, Yuta Nakashima, Hajime Nagahara. Emotional Intensity Estimation based on Writer's Personality. In Proceedings of the AACL-IJCNLP 2022 Student Research Workshop (AACL-IJCNLP 2022 SRW), Taipei, Taiwan, November 2022. (to appear)
-- Haruya Suzuki, Yuto Miyauchi, Kazuki Akiyama, Tomoyuki Kajiwara, Takashi Ninomiya, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. A Japanese Dataset for Subjective and Objective Sentiment Polarity Classification in Micro Blog Domain. In Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), Marseille, France, June 2022. ([PDF](https://aclanthology.org/2022.lrec-1.759/), [Slides](https://github.com/haru1290/haru1290/blob/main/lrec2022-slides.pdf))
+- Haruya Suzuki, Yuto Miyauchi, Kazuki Akiyama, Tomoyuki Kajiwara, Takashi Ninomiya, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. A Japanese Dataset for Subjective and Objective Sentiment Polarity Classification in Micro Blog Domain. In Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), Marseille, France, June 2022. [[PDF](https://aclanthology.org/2022.lrec-1.759/] [[Slides](https://github.com/haru1290/haru1290/blob/main/lrec2022-slides.pdf)]
 
 ## 国内会議
 
